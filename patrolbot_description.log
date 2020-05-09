@@ -1,0 +1,17 @@
+warning: Tag `XML_SCHEMA' at line 1796 of file `/tmp/tmpThXfyj' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: Tag `XML_DTD' at line 1802 of file `/tmp/tmpThXfyj' has become obsolete.
+         To avoid this warning please remove this line from your configuration file or upgrade it using "doxygen -u"
+warning: tag INCLUDE_PATH: include path `$INCLUDE_PATH' does not exist
+warning: source $INCLUDE_PATH is not a readable file or directory... skipping.
+Documenting a catkin package
+Documenting patrolbot_description located here: /home/travis/build/crislmfroes/patrolbot_stack/patrolbot_description
+{'doxygen': {'builder': 'doxygen', 'file_patterns': '*.cpp *.hpp *.dox *.md'}}
+{'builder': 'doxygen', 'file_patterns': '*.cpp *.hpp *.dox *.md'}
+Generated the following tagfile string 
+doxygen-ating patrolbot_description [doxygen /tmp/tmpThXfyj]
+[]
+[]
+[]
+copying /opt/ros/melodic/lib/python2.7/dist-packages/rosdoc_lite/templates/msg-styles.css to patrolbot_description/html/msg-styles.css
+Done documenting patrolbot_description you can find your documentation here: /home/travis/build/crislmfroes/patrolbot_stack/code_docs/patrolbot_stack/patrolbot_description
