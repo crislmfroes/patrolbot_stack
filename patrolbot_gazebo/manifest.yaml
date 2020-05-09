@@ -1,0 +1,18 @@
+actions: []
+authors: ''
+brief: ''
+bugtracker: ''
+depends:
+- robot_state_publisher
+- catkin
+- rviz
+- joint_state_publisher
+- gazebo_ros
+description: The patrolbot_gazebo package
+license: TODO
+maintainers: cris <cris@todo.todo>
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: ''
